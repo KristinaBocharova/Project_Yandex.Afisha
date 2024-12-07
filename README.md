@@ -1,18 +1,11 @@
-# Project Description
+# Project: Optimization of Marketing Expenses in Yandex.Afisha
 
-This project is an analysis of customer behavior using data from the Instacart grocery delivery platform. The goal is to clean and process the dataset to uncover insights into customer shopping habits. We focus on key aspects such as customer retention, the relationship between product selection and purchase frequency, and identifying patterns in user behavior. By analyzing the data, we aim to understand when customers make purchases, how often they do so, and which products are most frequently bought.
+This project focuses on optimizing the marketing expenses for the Yandex.Afisha platform. The primary goal is to analyze the effectiveness of various marketing channels to identify the most profitable traffic sources. This analysis will help redistribute the budget, increase the return on investment (ROI), and enhance long-term strategic planning.
 
-## Methods and Libraries Used
+## Tools Used
 
-### Python
-The main programming language used for data processing and analysis.
-
-### Pandas
-Used for cleaning and transforming the data.
-
-### Seaborn and Matplotlib
-Used for creating visualizations of customer behavior and trends.
-
-### Plotly Express
-Employed to create interactive data visualizations.
-
+### Python Libraries
+- **pandas** — for data manipulation and analysis.
+- **numpy** — for mathematical calculations.
+- **matplotlib** and **seaborn** — for data visualization.
+- **plotly.express** and **plotly.graph_objects** — for creating interactive graphs.
