@@ -3,7 +3,7 @@
 ## **Project Description:**  
 This project focuses on optimizing the marketing expenses for the Yandex.Afisha platform. The primary goal is to analyze the effectiveness of various marketing channels to identify the most profitable traffic sources. This analysis will help redistribute the budget, increase the return on investment (ROI), and enhance long-term strategic planning.
 
-## **Dataset:**
+## **Datasets:**
 The visits table (server logs with data on website visits):
 - Uid — user's unique identifier
 - Device — user's device
